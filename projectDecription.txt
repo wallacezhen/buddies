@@ -1,0 +1,6 @@
+connectivity
+never be alone when going to mini events or running errands
+This application will be a platform where users host or attend mini local events,
+    such as lunch, grocery shopping, reading in a library, house party partnering, 
+    festival buddies. The goal for this platform is to increase connectivity in 
+    the community, networking, social life and just making new friends in general.
